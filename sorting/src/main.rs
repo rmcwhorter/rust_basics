@@ -1,5 +1,6 @@
 #![allow(dead_code, unused_variables, unused_mut, unused_imports)]
 #![recursion_limit="1000"]
+
 extern crate rand;
 use rand::{thread_rng, Rng};
 
@@ -12,7 +13,10 @@ fn main() {
     let mut arr = [0; 100];
     let mut sorted = [-7,0,1,2,3,4,5,5,5,6,7];
 
-    
+    let mut unsorted_vec = vec![];
+    for a in 0..101{
+        unsorted_vec.push(thread_rng().gen_range(1,101) as i64);
+    }
     
     for a in 0..arr.len(){
         let mut rng = thread_rng();
@@ -26,7 +30,14 @@ fn main() {
 
     println!("{}",is_sorted(&arr));
     
-    let mut sorted_long = neighbor_sort(&mut arr);
+    let mut sorted_long = bubble_sort(&mut arr);
+    let mut sorted_merge = merge_sort(unsorted_vec);
+
+    for a in sorted_merge.iter(){
+        print!("{} ",a);
+    }
+    println!("\n{}",is_sorted_vector(&sorted_merge));
+    println!("\n{}",is_sorted_vector(&sorted_merge[0..(sorted_merge.len()/2)-1].to_vec()));
 }
 
 fn is_sorted(array: &[i64]) -> bool{
@@ -88,7 +99,7 @@ fn min_arr(array: &[i64]) -> i64{
     return *min_value;
 }
 
-fn neighbor_sort(array: &mut[i64]) -> &[i64]{
+fn bubble_sort(array: &mut[i64]) -> &[i64]{
     let mut out = array;
 
     while !is_sorted(out){
@@ -130,25 +141,28 @@ fn is_sorted_vector(invec: &Vec<i64>) -> bool{
     return flag;
 }
 
-fn permutation_sort(invec: &Vec<i64>) -> Vec<i64>{
-    let mut local_instance = invec;
-    let mut tmp_vec = Vec::new();
+fn merge_sort(mut invec: Vec<i64>) -> Vec<i64>{
+    if invec.len() > 1{
+        let middle = invec.len()/2;
 
-    let s = local_instance.len();
+        let mut l = merge_sort(invec[0..middle].to_vec());
+        let mut r = merge_sort(invec[middle..].to_vec());
 
-    while !is_sorted_vector(&tmp_vec){
-        let mut tmp_vec = Vec::new();
-        let mut temporary_instance = local_instance;
+        let mut i = 0;
+        let mut j = 0;
+        let mut k = 0;
 
-        for a in 0..s{
-            let mut rng = thread_rng();
-            let index: usize = rng.gen_range(0,s-a) as usize;
-
-            tmp_vec.push(temporary_instance[index]);
-            temporary_instance.swap_remove(index);
+        while i < l.len() && j < r.len(){
+            if l[i] < r[j]{
+                invec[k] = l[i];
+                i += 1;
+            }else{
+                invec[k] = r[j];
+                j += 1;
+            }
+            k += 1;
         }
-        
     }
 
-    return tmp_vec;
+    return invec;
 }
