@@ -1,0 +1,13 @@
+[package]
+name = "deep_ml"
+version = "0.1.0"
+authors = ["Ryan McWhorter <rmcwhorter99@gmail.com>"]
+
+[dependencies]
+ndarray = "*"
+#ndarray-linalg = { version = "0.10" }
+ndarray-rand = "*"
+rand = "*"
+serde_json = "*"
+rustc-serialize = "*"
+serde = "*"

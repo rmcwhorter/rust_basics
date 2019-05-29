@@ -1,0 +1,1 @@
+{"rustc":16808136130384033570,"features":"[\"blas\", \"blas-src\", \"cblas-sys\"]","target":10088282520713642473,"profile":9935990280773120926,"path":1673860388524451661,"deps":[],"local":[{"Precalculated":"0.12.1"}],"rustflags":[],"edition":"Edition2015"}

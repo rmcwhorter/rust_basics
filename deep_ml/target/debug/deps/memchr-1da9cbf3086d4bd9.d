@@ -1,0 +1,11 @@
+/Users/ryanmcwhorter/Documents/_GIT/rust_basics/web/target/debug/deps/libmemchr-1da9cbf3086d4bd9.rlib: /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/Users/ryanmcwhorter/Documents/_GIT/rust_basics/web/target/debug/deps/memchr-1da9cbf3086d4bd9.d: /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs:

@@ -1,0 +1,1 @@
+{"rustc":16808136130384033570,"features":"[]","target":17798514505400212194,"profile":9935990280773120926,"path":9860236521802118315,"deps":[["ndarray v0.12.1","ndarray",17246739551237281047],["rand v0.6.5","rand",15209411008746535223]],"local":[{"Precalculated":"0.9.0"}],"rustflags":[],"edition":"Edition2015"}

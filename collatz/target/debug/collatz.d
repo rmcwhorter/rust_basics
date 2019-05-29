@@ -1,0 +1,1 @@
+/Users/ryanmcwhorter/Documents/_GIT/rust_basics/collatz/target/debug/collatz.dSYM: /Users/ryanmcwhorter/Documents/_GIT/rust_basics/collatz/src/collatz.rs /Users/ryanmcwhorter/Documents/_GIT/rust_basics/collatz/src/main.rs

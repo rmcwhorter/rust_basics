@@ -1,0 +1,13 @@
+/Users/ryanmcwhorter/Documents/_GIT/rust_basics/web/target/debug/deps/libnet2-46557cdcbacafcfb.rlib: /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/Users/ryanmcwhorter/Documents/_GIT/rust_basics/web/target/debug/deps/net2-46557cdcbacafcfb.d: /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs:
+/Users/ryanmcwhorter/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs:

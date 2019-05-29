@@ -1,0 +1,1 @@
+{"rustc":16808136130384033570,"features":"[]","target":10541373104570663911,"profile":9935990280773120926,"path":7980134830046127700,"deps":[["lapacke-sys v0.1.4","lapacke_sys",18313779817099949573],["libc v0.2.54","libc",1886394423158804904],["num-complex v0.2.1","num_complex",522898913767242320]],"local":[{"Precalculated":"0.2.0"}],"rustflags":[],"edition":"Edition2015"}
